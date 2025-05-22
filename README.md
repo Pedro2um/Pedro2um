@@ -21,13 +21,12 @@ I'm a **Data Scientist** from Vitória, ES, Brazil 🇧🇷, passionate about le
 
 ### 🔭 What I'm Currently Focused On:
 
-*   Working as a **Software Engineer** at [Labic - CONECTA TURISMO](https://labic.ufes.br/conecta-turismo/) (*You might want to update this link to a more direct project page if available*), building ETL pipelines to empower the tourism sector with data.
-*   Contributing as an **Undergraduate Researcher** at DSL - UFES, where I've:
-    *   Developed PyTorch-based churn models for TIM Brazil (achieving 85% accuracy and $50k+/month cost reduction).
-    *   Currently developing an automated WhatsApp data ingestion and BERT sentiment analysis system for real-time misinformation monitoring.
-    *   Co-authored publications for AINA'25 and SBRC'24.
+*   Working as a **Machine Learning Engineer** at [Labic](https://labic.ufes.br/conecta-turismo/) , building ETL pipelines to empower the tourism sector with data.
+*   Contributing as an **Undergraduate Researcher** at [Data Science Lab](https://dsl.ufes.br/) - UFES, where I've:
+    *   Developed PyTorch-based churn models for TIM Brazil (achieving 80% accuracy and major cost reduction).
+    *   Currently developing an automated WhatsApp data ingestion and sentiment analysis system for misinformation monitoring.
+    *   Co-authored publications for [AINA'25](https://link.springer.com/chapter/10.1007/978-3-031-87769-8_35?) and [SBRC'24](https://sol.sbc.org.br/index.php/sbrc/article/view/29802?articlesBySameAuthorPage=3).
 *   Advancing my knowledge through my **B.S. in Computer Science** at the [Federal University of Espírito Santo (UFES)](https://www.ufes.br/).
-*   🌱 Always learning and exploring new frontiers in AI, MLOps, and efficient data processing!
 
 ---
 
@@ -39,7 +38,6 @@ I'm a **Data Scientist** from Vitória, ES, Brazil 🇧🇷, passionate about le
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cplusplus/cplusplus.png" alt="C++"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058 explorar/topics/elixir/elixir.png" alt="Elixir"></code>
-*(Elixir icon might need a valid URL or use text)*
 
 **Machine Learning & NLP:**
 PyTorch | Transformers (BERT) | Scikit-learn | SHAP | FAISS
@@ -49,7 +47,7 @@ PyTorch | Transformers (BERT) | Scikit-learn | SHAP | FAISS
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
-DVC | Pandas | Spark | Google Places API | PostgreSQL
+DVC | Pandas | Spark | Google Places API | SQL
 
 **Data Visualization:**
 Matplotlib | Seaborn
@@ -57,7 +55,7 @@ Matplotlib | Seaborn
 ---
 
 ### 🚀 Highlighted Project Areas:
-You can find more details and other projects on my **[Portfolio Website](https://Pedro2um.github.io/portfolio/)** (*<= IMPORTANT: Update this URL with the link to your deployed portfolio!*)
+You can find more details and other projects on my **[Portfolio Website](https://Pedro2um.github.io/portfolio/)**
 
 *   **Episodic Memory for LLMs:** Implemented FAISS semantic memory to enhance chatbot coherence.
 *   **Predictive Modeling:** Developed high-accuracy churn prediction models.
@@ -71,7 +69,7 @@ You can find more details and other projects on my **[Portfolio Website](https:/
 *   **LinkedIn:** [Pedro Igor Gomes de Morais](https://www.linkedin.com/in/pedro-igor-gomes-de-morais-065018250/)
 *   **Email:** [pedroigorgm@gmail.com](mailto:pedroigorgm@gmail.com)
 *   **Portfolio:** [https://Pedro2um.github.io/portfolio/](https://Pedro2um.github.io/portfolio/) (*<= IMPORTANT: Update this URL!*)
-*   **Kaggle:** [YourKaggleProfile](https://www.kaggle.com/YOUR_KAGGLE_USERNAME) (*Optional: Uncomment and add your Kaggle link if you have one*)
+*   **Kaggle:** [MyProfile](https://www.kaggle.com/YOUR_KAGGLE_USERNAME) (*Optional: Uncomment and add your Kaggle link if you have one*)
 
 ---
 
