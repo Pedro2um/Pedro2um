@@ -68,8 +68,8 @@ You can find more details and other projects on my **[Portfolio Website](https:/
 
 *   **LinkedIn:** [Pedro Igor Gomes de Morais](https://www.linkedin.com/in/pedro-igor-gomes-de-morais-065018250/)
 *   **Email:** [pedroigorgm@gmail.com](mailto:pedroigorgm@gmail.com)
-*   **Portfolio:** [https://Pedro2um.github.io/portfolio/](https://Pedro2um.github.io/portfolio/) (*<= IMPORTANT: Update this URL!*)
-*   **Kaggle:** [MyProfile](https://www.kaggle.com/YOUR_KAGGLE_USERNAME) (*Optional: Uncomment and add your Kaggle link if you have one*)
+*   **Portfolio:** [https://Pedro2um.github.io/portfolio/](https://Pedro2um.github.io/portfolio/) 
+*   **Kaggle:** [MyProfile](https://www.kaggle.com/pedro2um1dois)
 
 ---
 
