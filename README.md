@@ -23,7 +23,7 @@ I'm a **Data Scientist** from Vitória, ES, Brazil 🇧🇷, passionate about le
 
 *   Working as a **Machine Learning Engineer** at [Labic](https://labic.ufes.br/conecta-turismo/) , building ETL pipelines to empower the tourism sector with data.
 *   Contributing as an **Undergraduate Researcher** at [Data Science Lab](https://dsl.ufes.br/) - UFES, where I've:
-    *   Developed PyTorch-based churn models for TIM Brazil (achieving 80% accuracy and major cost reduction).
+    *   Developed PyTorch-based churn models for TIM Brazil (achieving cost reduction).
     *   Currently developing an automated WhatsApp data ingestion and sentiment analysis system for misinformation monitoring.
     *   Co-authored publications for [AINA'25](https://link.springer.com/chapter/10.1007/978-3-031-87769-8_35?) and [SBRC'24](https://sol.sbc.org.br/index.php/sbrc/article/view/29802?articlesBySameAuthorPage=3).
 *   Advancing my knowledge through my **B.S. in Computer Science** at the [Federal University of Espírito Santo (UFES)](https://www.ufes.br/).
@@ -36,7 +36,7 @@ I'm a **Data Scientist** from Vitória, ES, Brazil 🇧🇷, passionate about le
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cplusplus/cplusplus.png" alt="C++"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cplusplus/cplusplus.png" alt="C/C++"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058 explorar/topics/elixir/elixir.png" alt="Elixir"></code>
 
 **Machine Learning & NLP:**
