@@ -21,7 +21,7 @@ I'm a **Data Scientist** from Vitória, ES, Brazil 🇧🇷, passionate about le
 
 ### 🔭 What I'm Currently Focused On:
 
-*   Working as a **Machine Learning Engineer** at [Labic](https://labic.ufes.br/conecta-turismo/) , building ETL pipelines to empower the tourism sector with data.
+*   Working as a **Undergraduate Researcher** at [Labic](https://labic.ufes.br/conecta-turismo/) , building ETL pipelines to empower the tourism sector with data.
 *   Contributing as an **Undergraduate Researcher** at [Data Science Lab](https://dsl.ufes.br/) - UFES, where I've:
     *   Developed PyTorch-based churn models for TIM Brazil (achieving cost reduction).
     *   Currently developing an automated WhatsApp data ingestion and sentiment analysis system for misinformation monitoring.
@@ -55,7 +55,6 @@ Matplotlib | Seaborn
 ---
 
 ### 🚀 Highlighted Project Areas:
-You can find more details and other projects on my **[Portfolio Website](https://Pedro2um.github.io/portfolio/)**
 
 *   **Episodic Memory for LLMs:** Implemented FAISS semantic memory to enhance chatbot coherence.
 *   **Predictive Modeling:** Developed high-accuracy churn prediction models.
@@ -68,7 +67,6 @@ You can find more details and other projects on my **[Portfolio Website](https:/
 
 *   **LinkedIn:** [Pedro Igor Gomes de Morais](https://www.linkedin.com/in/pedro-igor-gomes-de-morais-065018250/)
 *   **Email:** [pedroigorgm@gmail.com](mailto:pedroigorgm@gmail.com)
-*   **Portfolio:** [https://Pedro2um.github.io/portfolio/](https://Pedro2um.github.io/portfolio/) 
 *   **Kaggle:** [Pedro2um](https://www.kaggle.com/pedro2um1dois)
 
 ---
