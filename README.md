@@ -69,15 +69,6 @@ Matplotlib | Seaborn
 *   **Email:** [pedroigorgm@gmail.com](mailto:pedroigorgm@gmail.com)
 *   **Kaggle:** [Pedro2um](https://www.kaggle.com/pedro2um1dois)
 
----
-
-### 📊 My GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro2um&show_icons=true&theme=radical&rank_icon=github" alt="Pedro's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro2um&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
-
 <!--
 **Pedro2um/Pedro2um** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
