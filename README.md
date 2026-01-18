@@ -5,7 +5,7 @@
   
   <a href="mailto:pedroigorgm@gmail.com">Email</a>
   
-  <a href="https://pedro2um.github.io" target="_blank">Website</a>
+  <a href="https://pedro2um.github.io" target="_blank">WebSite/Portfolio</a>
 </nav>
 
 
