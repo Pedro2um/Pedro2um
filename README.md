@@ -6,10 +6,9 @@
 <a href="mailto:pedroigorgm@gmail.com" target="_blank">
   <img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="margin-left: 5px;"/>
 </a>
-<!-- Add your portfolio link here once live -->
-<!-- <a href="https://pedro2um.github.io/portfolio/" target="_blank">
+<a href="https://pedro2um.github.io/portfolio/" target="_blank">
   <img align="right" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" style="margin-left: 5px;"/>
-</a> -->
+</a>
 <!-- Add your Kaggle link here if you have one -->
 <!-- <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
   <img align="right" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" style="margin-left: 5px;"/>
