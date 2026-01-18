@@ -1,7 +1,9 @@
 # Hi there, I'm Pedro Igor Gomes de Morais 👋
 <nav class="nav-links">
   <a href="https://www.linkedin.com/in/pedro-igor-gomes-de-morais-065018250/" target="_blank">LinkedIn</a>
+  
   <a href="mailto:pedroigorgm@gmail.com">Email</a>
+  
   <a href="https://pedro2um.github.io" target="_blank">Website</a>
 </nav>
 
