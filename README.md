@@ -1,14 +1,19 @@
 # Hi there, I'm Pedro Igor Gomes de Morais 👋
 
+<a href="https://pedro2um.github.io">
+  <img class="icon site" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" alt="Portfolio">
+</a>
+
 <a href="https://www.linkedin.com/in/pedro-igor-gomes-de-morais-065018250/" target="_blank">
-  <img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img class="icon linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn">
 </a>
-<a href="mailto:pedroigorgm@gmail.com" target="_blank">
-  <img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="margin-left: 5px;"/>
+
+<a href="mailto:pedroigorgm@gmail.com">
+  <img class="icon gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email">
 </a>
-<a href="Pedro2um.github.io" target="_blank">
-  <img align="right" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" style="margin-left: 5px;"/>
-</a>
+
+
+
 <!-- Add your Kaggle link here if you have one -->
 <!-- <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
   <img align="right" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" style="margin-left: 5px;"/>
