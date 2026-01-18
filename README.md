@@ -1,16 +1,10 @@
 # Hi there, I'm Pedro Igor Gomes de Morais 👋
+<nav class="nav-links">
+  <a href="https://www.linkedin.com/in/pedro-igor-gomes-de-morais-065018250/" target="_blank">LinkedIn</a>
+  <a href="mailto:pedroigorgm@gmail.com">Email</a>
+  <a href="https://pedro2um.github.io" target="_blank">Website</a>
+</nav>
 
-<a href="https://pedro2um.github.io">
-  <img class="icon site" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" alt="Portfolio">
-</a>
-
-<a href="https://www.linkedin.com/in/pedro-igor-gomes-de-morais-065018250/" target="_blank">
-  <img class="icon linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn">
-</a>
-
-<a href="mailto:pedroigorgm@gmail.com">
-  <img class="icon gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email">
-</a>
 
 
 
